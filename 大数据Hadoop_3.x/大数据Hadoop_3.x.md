@@ -60,7 +60,7 @@
 
 ### 2.1.5 Hadoop组成（面试重点）
 
-![Hadoop版本组成区别](.\noteimages\Hadoop版本组成区别.png)
+![Hadoop版本组成区别](./noteimages/Hadoop版本组成区别.png)
 
 #### 2.1.5.1 HDFS概述
 
